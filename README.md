@@ -21,8 +21,7 @@ Change to the repository's directory on your local machine using the cd command:
 
 Please make sure to update tests as appropriate.
 
-cd repository-name
-
+`/cd repository-name/i`
 
 ## 4. Add Your Contribution
 
